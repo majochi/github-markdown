@@ -11,6 +11,7 @@ try github's markdown features
 flowchart LR
 
 a(((Beginning))) -- time goes by --> b(((End)))
+a -- things go wrong --> f(((Failure)))
 ```
 
 ### flowchart UD
