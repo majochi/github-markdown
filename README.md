@@ -5,6 +5,8 @@ try github's markdown features
 
 ## Mermaid
 
+https://mermaid-js.github.io/
+
 ### flowchart LR
 
 ``` mermaid
