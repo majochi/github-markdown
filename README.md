@@ -70,12 +70,12 @@ merge develop
 ```mermaid
 C4Context
 
-Enterprise_Boundary(c0, "Big Company") {
-  Person(p_user, "User")
+Enterprise_Boundary(c0, "The Big Company") {
+  Person(p_user, "The User")
   System(s0, "The System")
 }
 
-System_Ext(s1, "External System")
+System_Ext(s1, "The External System")
 
 Rel(p_user, s0, "uses")
 BiRel(s0, s1, "interacts")
